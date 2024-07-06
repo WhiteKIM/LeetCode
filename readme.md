@@ -1,6 +1,6 @@
 # LeetCode
 ## Overview
-The repository has a collection of solutions solved by LetCode, each of which provides a description and strategy for the problem.<br/>
+The repository has a collection of solutions solved by LeetCode, each of which provides a description and strategy for the problem.<br/>
 ## Stack
 - SQL : Main DBMS -> MySQL
 - Lang : Java, Python..
